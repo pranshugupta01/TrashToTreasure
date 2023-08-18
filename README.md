@@ -1,1 +1,2 @@
 # smackThat
+A HACKATHON PROJECT
