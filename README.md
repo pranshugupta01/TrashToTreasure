@@ -1,2 +1,2 @@
-# smackThat
+# TrashToTreasure
 A HACKATHON PROJECT
